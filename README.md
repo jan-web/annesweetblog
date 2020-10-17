@@ -1,0 +1,1 @@
+# I produced this fake blog for project Zaverstauy of HTML Academy
